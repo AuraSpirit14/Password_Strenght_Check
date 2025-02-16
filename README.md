@@ -1,1 +1,1 @@
-New Future Intern Project 1
+Build a Password Strength Analyzer Tool
